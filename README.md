@@ -1,0 +1,1 @@
+My [Codewars](https://www.codewars.com/) Python3 solutions 🐍
